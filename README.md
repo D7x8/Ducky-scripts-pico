@@ -9,7 +9,7 @@ Rubber ducky scripts for raspberry pi pico
 
 Hold down the BOOTSEL button as you plug it into to your pc, this will put stop the scripts from running.
 
-After it is plugged in, grag and drop the Flash_Nuke.uf2 onto the pico to reset it.
+After it is plugged in, drag and drop the Flash_Nuke.uf2 onto the pico to reset it.
 
 Once you have done that drag and drop the adafruit-circuitpython-raspberry_pi_pico-en_US-7.3.0.uf2 file onto the pico.
 
@@ -19,7 +19,7 @@ You can now put in your rubber ducky payloads.
 
 ### Disclaimer:
 
-Please do not use these scipts for any malicious purposes, this is only intended for use on your own property.
+Please do not use these scipts for any malicious purposes, this is for education purposes only is only intended for use on your own property.
 
 ### Also note:
 
